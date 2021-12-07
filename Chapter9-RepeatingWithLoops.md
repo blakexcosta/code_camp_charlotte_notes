@@ -127,7 +127,7 @@
 
 - input validation example:
 
-  - exL) 
+  - ex:) 
 
     ```javascript
     let num = input.question('Please enter a positive number:');
